@@ -1,9 +1,10 @@
 # Hi, I'm Shrishti Sonkar 👋
 
 🎓 AI & Machine Learning Undergraduate  
-🧠 Generative AI | Computer Vision | Web Developer  
-🏆 Hackathon Winner at NIT Kurukshetra
-📚 IEEE Access Reviewer | Researcher  
+🧠 Generative AI | Computer Vision | Web Development  
+🏆 Hackathon Winner (Hackshetra, NIT Kurukshetra) | 🥈 Excalibur’25 | 🏅 HackQuest’25 (UIT) Top 10  
+📚 IEEE Access Reviewer | Researcher
+
 
 ---
 

@@ -1,8 +1,8 @@
 # Hi, I'm Shrishti Sonkar 👋
 
 🎓 AI & Machine Learning Undergraduate  
-🧠 Generative AI | Computer Vision | Smart City Solutions  
-🏆 HackQuest’25 (UIT Allahabad) — Top 10  
+🧠 Generative AI | Computer Vision | Web Developer  
+🏆 Hackathon Winner at NIT Kurukshetra
 📚 IEEE Access Reviewer | Researcher  
 
 ---
